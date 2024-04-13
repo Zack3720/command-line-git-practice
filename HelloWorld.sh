@@ -4,6 +4,7 @@
 
 NAME="Helena Test 1" # Change This Variable to Your Name
 
+
 validate_name() {
     if [ "$NAME" = "HELLO WORLD" ]; then
         echo "You Haven't Changed the NAME Variable on Line 5. Please Change it!"
