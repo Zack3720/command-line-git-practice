@@ -2,6 +2,7 @@
 # This is a practice script for the Husky Coding Project's Git
 # and Command Line workshop. 
 
+
 NAME="Not Zack" # Change This Variable to Your Name
 
 
