@@ -2,7 +2,7 @@
 # This is a practice script for the Husky Coding Project's Git
 # and Command Line workshop. 
 
-NAME="Helena Test 1" # Change This Variable to Your Name
+NAME="NAME" # Change This Variable to Your Name
 
 
 validate_name() {
